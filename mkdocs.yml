@@ -31,7 +31,7 @@ home_button2_url: education     # This path starts at your root mkdocs directory
 home_button2_theme: md-button   # Options: "md-button", "md-button md-button--primary"
 
 home_button3_name: Projects     # Comment this parameter out to remove the button.
-home_button3_url: project       # This path starts at your root mkdocs directory.
+home_button3_url: projects      # This path starts at your root mkdocs directory.
 home_button3_theme: md-button   # Options: "md-button", "md-button md-button--primary"
 
 # Homepage Code Execution
