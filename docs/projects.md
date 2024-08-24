@@ -7,6 +7,14 @@ hide:
 
 Find all my projects on [github.com/mathiasesn](https://github.com/mathiasesn).
 
+## Portfolio Webpage
+
+* **[github.com/mathiasesn/portfolio-webpage](https://github.com/mathiasesn/portfolio-webpage)**
+* Personal portfolio webpage built with Material for MkDocs and GitHub Pages.
+* Visualizations generated with Midjourney.
+
+---
+
 ## Create Movie Subtitles with AI
 
 * **[github.com/mathiasesn/movie-subtitles](https://github.com/mathiasesn/movie-subtitles)**
@@ -14,6 +22,14 @@ Find all my projects on [github.com/mathiasesn](https://github.com/mathiasesn).
 * Utilizes Whisper for audio transcription and translation.
 
 --- 
+
+## Annual Review Assistant (Årsopgoerelses Assistent)
+
+* **[huggingface.co/spaces/mathiasn1/aarsopgoerelses_assistent](https://huggingface.co/spaces/mathiasn1/aarsopgoerelses_assistent)**
+* Chatbot for assisting with annual reviews in Danish.
+* Built with Gradio and LlamaIndex.
+
+---
 
 ## Obstacle Avoidance with Input Correlation Learning
 
