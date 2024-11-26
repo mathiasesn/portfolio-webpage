@@ -14,9 +14,11 @@ hide:
 * Developing machine learning models for video analysis, object detection, leveraging large language models for semantic understanding, speech-to-text for audio analysis, text classification for content categorization, text summarization for concise insights, and translation for cross-lingual applications.
 * Ensuring the smooth daily operation of cloud compute resources, optimizing resource allocation and performance for model training and deployment.
 * Technologies used: Python, HuggingFace, PyTorch, FastAPI, OpenCV, Docker and Git.
-* Lead developer on AI translation project between Danish and Kalallisut. [nutserisoq.gl](https://nutserisoq.gl/da/about)
+* Lead developer on [nutserisoq.gl](https://nutserisoq.gl/da/about), an innovative AI translation platform bridging Danish and Kalallisut languages, helping preserve and promote Greenlandic cultural communication.
 * Developer on social media monitoring tool with speech-to-text, gender, age, and expression analysis of content. [tool.creatornation.io/](https://tool.creatornation.io/)
-* Developer on a general python package for interfacing with various APIs. [mediacatch](https://api.mediacatch.io/mediacatch/docs/)
+* Developer on [tool.creatornation.io/](https://tool.creatornation.io/), an advanced social media analytics technology that incorporates speech-to-text conversion alongside sophisticated content analysis for gender, age, and expression detection.
+* Developer on [mediacatch](https://api.mediacatch.io/mediacatch/docs/), a comprehensive Python package that streamlines API integrations, making it easier for developers to access the MediaCatch ecosystem.
+* Developer on [trends.mediacatch.io/](https://trends.mediacatch.io/), a platform that provides real-time insights into social media trends, enabling users to monitor and analyze trends across multiple platforms. The system combines speech-to-text transcription and optical character recognition (OCR) to extract deep insights from both visual and audio content across social platforms.
 
 --- 
 
