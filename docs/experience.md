@@ -5,7 +5,7 @@ hide:
 
 # Experience
 
-## Machine Learning Engineer
+## Senior Machine Learning Engineer
 
 **[MediaCatch](https://mediacatch.io/)**
 
