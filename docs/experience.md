@@ -17,7 +17,7 @@ hide:
 * Lead developer on [nutserisoq.gl](https://nutserisoq.gl/da/about), an innovative AI translation platform bridging Danish and Kalallisut languages, helping preserve and promote Greenlandic cultural communication.
 * Developer on [tool.creatornation.io/](https://tool.creatornation.io/), an advanced social media analytics technology that incorporates speech-to-text conversion alongside sophisticated content analysis for gender, age, and expression detection.
 * Developer on [mediacatch](https://api.mediacatch.io/mediacatch/docs/), a comprehensive Python package that streamlines API integrations, making it easier for developers to access the MediaCatch ecosystem.
-* Developer on [trends.mediacatch.io/](https://trends.mediacatch.io/), a platform that provides real-time insights into social media trends, enabling users to monitor and analyze trends across multiple platforms. The system combines speech-to-text transcription and optical character recognition (OCR) to extract deep insights from both visual and audio content across social platforms.
+* Lead developer on [trends.mediacatch.io/](https://trends.mediacatch.io/), a platform that provides real-time insights into social media trends, enabling users to monitor and analyze trends across multiple platforms. The system combines speech-to-text transcription and optical character recognition (OCR) to extract deep insights from both visual and audio content across social platforms.
 
 --- 
 
