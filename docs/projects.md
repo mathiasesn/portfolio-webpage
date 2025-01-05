@@ -7,6 +7,14 @@ hide:
 
 Find all my projects on [github.com/mathiasesn](https://github.com/mathiasesn).
 
+## repo-context
+
+* **[github.com/mathiasesn/repo-context](https://github.com/mathiasesn/repo-context)**
+* Convert Git repositories into LLM-friendly context format.
+* `pip install repo-context` ([pypi.org/project/repo-context/](https://pypi.org/project/repo-context/))
+
+---
+
 ## Portfolio Webpage
 
 * **[github.com/mathiasesn/portfolio-webpage](https://github.com/mathiasesn/portfolio-webpage)**
